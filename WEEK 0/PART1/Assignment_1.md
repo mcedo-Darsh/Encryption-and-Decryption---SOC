@@ -43,4 +43,5 @@ You still get the Teacher information: https://drive.google.com/file/d/1IzVvDn60
 Find out who the killer was. 
 Dw, if your approach might be different than me, in thinking. I tried to keep it more or less straightforwarded, to prevent any discrepancies, but still if you conclude with differnt person as killer, it will still be 
 acknowledged as valid answer, so dw about solving correctly.
+
 (Bonus : Explain what was the motive of the killer i.e. give a story plot, with your own imagination)
