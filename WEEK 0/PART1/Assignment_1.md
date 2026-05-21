@@ -45,3 +45,39 @@ Dw, if your approach might be different than me, in thinking. I tried to keep it
 acknowledged as valid answer, so dw about solving correctly.
 
 (Bonus : Explain what was the motive of the killer i.e. give a story plot, with your own imagination)
+
+
+
+# Q2.  Rocket Fuel Data Analysis
+
+Scientists at a futuristic space research station are testing experimental rocket fuels for interplanetary missions.
+
+You are given a CSV file containing:
+- fuel type
+- temperature
+- pressure
+- thrust
+- efficiency
+- reactor stability
+- oxygen levels
+- target planet
+
+Some sensor values are missing due to system failures.
+
+Your task is to analyze and clean the dataset using Python with Pandas, NumPy, and Matplotlib.
+Steps:
++ Explore the dataset , use the .head(),.shape,etc;
++ find missing values and replace them with the mean and median for pressure
++ filter data
+  - experiments with thrust > 1000
+  - unstable experiments
+  - Mars missions
+  - efficiency > 80%
++ sort
+   - temperature ascending
+   - efficiency descending
++ new column: `Power_Index = Thrust_kN * Efficiency_Percent`
++ plot all the columns
++ save the modified data as modified.csv
+
+Dataset: https://drive.google.com/file/d/1766HwO3-2k5a2jvO3z8kbw_HFT672iKE/view?usp=sharing
