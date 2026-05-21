@@ -10,7 +10,7 @@ You have a witness, whom you need to trust since there are no other lead and you
 + She wasn's sure about weight but didn't look lean so you assume wide range and you take the weight &ge; 50 and weight &le; 100.
 
 You also get information about the city- city was divided into 4 parts - city north, city south, city east, city west. There was one hospital and school for the entire city and it was in the city north.
-Getting into the city north or city west was difficult because there was forst in between. The forst route was closed after 8PM and people have to take a longer route 
+Getting into the city north or city west was difficult because there was forest in between. The forst route was closed after 8PM and people have to take a longer route 
 Appromimate time to reach from one city part to east:
 + North to east : 30 min via forest route and 1 hr 30 min via long route
 + West to east :40 min via forest and 1 hr 45 min via long route
