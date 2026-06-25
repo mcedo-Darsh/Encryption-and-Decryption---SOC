@@ -50,3 +50,8 @@ class Attention_Decoder(nn.Module):
         return prediction, new_hidden, new_cell
 ```
 6. Make the dataset and finally train the model and Test it
+
+References:     
+https://pradeep-dhote9.medium.com/seq2seq-encoder-decoder-lstm-model-1a1c9a43bbac        
+https://www.geeksforgeeks.org/nlp/encoder-decoder-models/
+
